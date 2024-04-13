@@ -1,4 +1,4 @@
-# Satellite_image_segmentation_using_DL
+# Satellite image segmentation using DL
 This project focuses on segmenting satellite images to classify different land features such as water, vegetation, buildings, and more using deep learning. By leveraging a multi-UNet architecture and custom loss functions, the model achieves precise segmentation for a variety of real-world applications.
 <br>
 # Overview
